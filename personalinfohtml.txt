@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Details</title>
+</head>
+<body>
+    <h2><i>Personal Information</i></h2>
+    <section>
+    <h3>--Personal Details--</h3>
+    <p><strong>Date of Birth:</strong> 13 August 2007</p>
+    <p><Strong>Gender:</Strong> Female</p>
+    <p><strong>Nationality: </strong>Indian</p>
+    <p><strong>Languages Known: </strong>English, Malayalam</p>
+    </section>
+
+    <section>
+        <h3>--Family Details--</h3>
+        <table border="20" cellpadding=6">
+            <tr>
+                <th>Relation</th>
+                <th>Name</th>
+                <th>Occupation</th>
+                
+            </tr>
+            <tr>
+                <td>Father</td>
+                <td>Anilkumar P Nair</td>
+                <td>Retired Maths Teacher</td>
+            </tr>
+            <tr>
+                <td>Mother</td>
+                <td>Sindhumol C S</td>
+                <td>Higher Secondary Hindi Teacher</td>
+            </tr>
+            <tr>
+                <td>Brother</td>
+                <td>Devan A</td>
+                <td>Doing Masters in Achen, Germany</td>
+            </tr>
+        </table>
+    </section>
+
+    <section>
+        <h3>--Favourite Books--</h3>
+        <ul>
+            <li>Harry Potter and The Prisoner of Azkaban by J K Rowling</li>
+            <li>Percy Jackson and The Lightning Thief by Rick Riordan</li>
+            <li>The Great Gatsby by F. Scott Fitzgerald</li>
+        </ul>
+        <h3>--Favourite Movies--</h3>
+        <ul>
+            <li>Dead Poets Society</li>
+            <li>Dear John</li>
+            <li>Iron Man 3</li>
+            <li>Civil War</li>
+        </ul>
+        <h3>--Favourite Songs--</h3>
+        <ul>
+            <li>All One Direction Songs</li>
+            <li>Pink Skies by Lany</li>
+        </ul>
+        <h3>--Favourite Web Series--</h3>
+        <ul>
+            <li>The Office</li>
+            <li>Gilmore Girls</li>
+        </ul>
+        <h2>Places Visited</h2>
+        <ul>
+            <li>Karnataka</li>
+            <li>Hyderabad</li>
+            <li>Chennai</li>
+        </ul>
+    </section>
+
+    <section>
+        <h3>--Navigation Links--</h3>
+        <a href="resume.html">Resume</a>
+    </section>
+</body>
+</html>
